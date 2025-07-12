@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-#!usr/bin/python3
-"""
-Created on Wed Apr 04 15:19:39 2018
-@author: J554696
-principal Financial group
-"""
-
 import sys
 from importlib import reload
 reload(sys)
